@@ -1,0 +1,9 @@
+[server]
+    Port = ":8888"
+    Prefix = "/api"
+    Host = "localhost:8888"
+    TimeProcess = 10
+    PathPetNames = "data/petnames.txt"
+    PathPetAdj = "data/adj.txt"
+    PathPetCapabilities = "data/capabilities.txt"
+
